@@ -1,0 +1,1 @@
+# Patika-Mi-Power-BootcampProje
