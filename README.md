@@ -59,8 +59,11 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/sales-forecasting.git
 2. Navigate to the project directory:
+3.  ```bash
    cd sales-forecasting
-3. Install the required packages:
+4. Install the required packages:
+ ```bash
    pip install -r requirements.txt
-4. Run the script to train the model and make predictions:
+5. Run the script to train the model and make predictions:
+ ```bash
    python walmart_machine_learning.ipynb
