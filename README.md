@@ -58,9 +58,11 @@ To run this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sales-forecasting.git
+    ```bash
 2. Navigate to the project directory:
 3.  ```bash
    cd sales-forecasting
+    ```bash
 4. Install the required packages:
  ```bash
    pip install -r requirements.txt
