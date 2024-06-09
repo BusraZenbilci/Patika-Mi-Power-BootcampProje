@@ -57,20 +57,15 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Patika-Mi-Power-BootcampProje.git
+   git clone https://github.com/BusraZenbilci/Patika-Mi-Power-BootcampProje.git
    ```
-   
-2. Navigate to the project directory:
-   ```
-   cd sales-forecasting
-   ```
-   
-3. Install the required packages:
+     
+2. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
    
-4. Run the script to train the model and make predictions:
+3. Run the script to train the model and make predictions:
    ```
    python walmart_machine_learning.ipynb
    ```
